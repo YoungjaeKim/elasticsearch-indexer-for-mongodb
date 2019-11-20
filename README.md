@@ -7,6 +7,8 @@ There are three benefits in this script;
 2. It embraces json-path to selectively extract index items from a Mongo data. JsonPath can be get by [VSCode extension](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-statusbar-json-path) easily.
 3. It can be easily managed by yaml file and commandline arguments.
 
+Moreover, this repository gives `search.py` and `create_index.py` files to jump-start ElasticSearch project from scratch.
+
 ## How to use
 
 ```bash
